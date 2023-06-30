@@ -8,6 +8,8 @@
 
 ### Changed
 
+- Display more informative message when no context has been found [#54480](https://github.com/sourcegraph/sourcegraph/pull/54480)
+
 ### Deprecated
 
 ### Removed
